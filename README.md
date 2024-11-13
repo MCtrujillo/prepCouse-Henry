@@ -1,2 +1,1 @@
-# prepCouse-Henry
-Este es un repositorio del modulo2 del prepCouse de Henry
+Este es un proyecto es una prueba de como crear un repositorio y clonarlo desde githud a mi escritorio local
